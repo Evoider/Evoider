@@ -45,7 +45,7 @@ If you have a feature to implement and want to know if I can cover it — just r
 
 ## 📊 GitHub Stats
 
-![Evoider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evoider&show_icons=true&hide_border=true&theme=default)
+![Evoider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evoider&show_icons=true&hide_border=true&theme=default&hide_title=true)
 
 ---
 
