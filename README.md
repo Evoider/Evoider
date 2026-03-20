@@ -14,7 +14,7 @@ Unity · Unreal Engine · Unity XR (VR)
 C# · HLSL · Shader Graph · Git · Unity Editor scripting
 
 **Specialties**
-Gameplay systems · Enemy AI & state machines · Shaders & VFX · URP rendering · Multiplayer/networking
+Gameplay systems · Enemy AI & state machines · Shaders & VFX 
 
 ---
 
