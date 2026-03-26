@@ -1,4 +1,4 @@
-# Hey, I'm Evoider 👋
+# Hey, I'm Evoider 
 
 Unity developer focused on gameplay systems, visual effects, and technical rendering.
 I like building things that are both technically solid and visually interesting.
@@ -14,11 +14,11 @@ Unity · Unreal Engine · Unity XR (VR)
 C# · HLSL · Shader Graph · Git · Unity Editor scripting
 
 **Specialties**
-Gameplay systems · Enemy AI & state machines · Shaders & VFX 
+Gameplay systems · Shaders & VFX · Tools
 
 ---
 
-## 🎮 Projects
+##  Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -32,18 +32,18 @@ Gameplay systems · Enemy AI & state machines · Shaders & VFX
 
 ---
 
-## 💼 Open for freelance
+##  Open for freelance
 
 Available for Unity missions — gameplay features, shaders, tools, prototypes.
 
 I deliver clean, documented, version-controlled code.
 If you have a feature to implement and want to know if I can cover it — just reach out.
 
-📬 [evoider.voidseekers@gmail.com](mailto:evoider.voidseekers@gmail.com)
+ [evoider.voidseekers@gmail.com](mailto:evoider.voidseekers@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Evoider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evoider&show_icons=true&hide_border=true&theme=default&hide_title=true)
 
