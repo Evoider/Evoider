@@ -5,7 +5,7 @@ I like building things that are both technically solid and visually interesting.
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Engines**
 Unity · Unreal Engine · Unity XR (VR)
