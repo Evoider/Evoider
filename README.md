@@ -22,7 +22,6 @@ Gameplay systems · Shaders & VFX · Tools
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nanao RPG Puzzle Prototype](https://github.com/Evoider/NanaoDemoChapter1) | Toon rendering integration — adapted an external custom render pipeline, implemented VFX and visual effects | Unity · URP · Shader Graph |
 | [Top-Down Enemy AI](https://github.com/Evoider/UNITY---AI-Topdown) | Enemy state machine (idle/patrol/chase/attack), animations, level design, dynamic torch lighting  | Unity · C# · Animator |
 | [Tower Defense FPS](https://github.com/Evoider/Tower-Defense-FPS) | First-person tower defense built in 4 days — game jam with a classmate | Unreal Engine |
 | [Minesweeper Extended](https://github.com/Evoider/Demineur-Unity) | Classic Minesweeper + rotating board mode + infinite expanding mode | Unity · C# |
