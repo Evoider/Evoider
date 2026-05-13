@@ -25,7 +25,6 @@ Gameplay systems · Shaders & VFX · Tools
 | [Top-Down Enemy AI](https://github.com/Evoider/UNITY---AI-Topdown) | Enemy state machine (idle/patrol/chase/attack), animations, level design, dynamic torch lighting  | Unity · C# · Animator |
 | [Tower Defense FPS](https://github.com/Evoider/Tower-Defense-FPS) | First-person tower defense built in 4 days — game jam with a classmate | Unreal Engine |
 | [Minesweeper Extended](https://github.com/Evoider/Demineur-Unity) | Classic Minesweeper + rotating board mode + infinite expanding mode | Unity · C# |
-| [VR Prototype](https://github.com/Evoider/VrProj) | VR interaction and locomotion prototype | Unity · XR Toolkit |
 | [Shader Exercises](https://github.com/Evoider/Shader-Exercises-URP) | HLSL and Shader Graph exercises — dissolve, fresnel, toon shading, normal mapping | Unity · URP · HLSL |
 
 
